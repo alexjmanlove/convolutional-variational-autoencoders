@@ -2,11 +2,11 @@
 
 In this project we apply convolutional neural networks in variational autoencoder models to perform unsupervised reconstruction, damage restoration and interpolation of human face images.
 
-# Preview of Figures
+# Project Preview
 
-## VAE Architecture
+## What is a Variational Autoencoder?
 
-![VAE Diagram-1](https://user-images.githubusercontent.com/79708390/211933944-f558ba34-7042-4e96-9f0a-ff16ce8605f9.png)
+<img src="https://user-images.githubusercontent.com/79708390/211933944-f558ba34-7042-4e96-9f0a-ff16ce8605f9.png" width="900" height="480">
 
 ## How Do `latent_dimension` and `β` Regularisation Affect VAE Reconstruction Quality?
 
