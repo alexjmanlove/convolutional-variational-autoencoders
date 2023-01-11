@@ -25,3 +25,24 @@ In this project we apply convolutional neural networks in variational autoencode
 ### Inpainting Deleted Data
 
 <img src="https://user-images.githubusercontent.com/79708390/211933289-aec02791-0020-41ed-9727-5ad5fc6dd6b7.png" width="380" height="360">
+
+
+
+## Reproducibility
+
+The .ipynb file is organised into two chapters which loosely follow along with the PDF report. I recommend reading the full report first, then viewing the cell outputs in the notebook, before you try to run the code yourself.     
+
+*N.B.: This project involved training three convolutional neural networks and four variational autoencoders. These models were trained on GPU and collectively took over an hour of compute time.*
+
+### Python Package Requirements
+
+An outline of the packages used in the project is available in the requirements.txt. In particular, the following packages:
+- numpy>=1.21.6
+- pandas>=1.3.5
+- matplotlib>=3.2.2
+- seaborn>=0.11.2
+- scikit-learn>=1.0.2
+- torch>=1.13.0+cu116
+- torchvision>=0.14.0+cu116
+- piqa>=1.2.2
+- pyarrow>=9.0.0
