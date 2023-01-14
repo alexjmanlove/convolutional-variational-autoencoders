@@ -12,7 +12,7 @@ In this project we first briefly recap the convolutional neural networks and exp
 
 ## What is a Variational Autoencoder?
 
-In this project we briefly recap the idea of the variational autoencoder, which builds on the approach of traditional autoencoders by incorporating principles of probabilistic generative modelling and Bayesian variational inference to learn a distribution over the possible latent codes.    
+Secondly, we briefly recap the variational autoencoder, which builds on the approach of traditional autoencoders by incorporating principles of probabilistic generative modelling and Bayesian variational inference to learn a distribution over the possible latent codes. In particular, here we use convolutional encoders and deconvolutional decoders.
 
 <img src="https://user-images.githubusercontent.com/79708390/211933944-f558ba34-7042-4e96-9f0a-ff16ce8605f9.png" width="900" height="480">
 
