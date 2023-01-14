@@ -28,6 +28,8 @@ Here show some examples using VAEs for denoising and damage restoration. However
 
 ### Simple Mean Filter Denoising vs VAE Reconstruction
 
+Using the VAE we can create intelligible reconstructions of noisy images, assuming the original image is sufficiently similar to the training data. In the case of severe Gaussian noise, we can see the results of the VAE reconstruction are better than other simpler methods like mean filter.
+
 <img src="https://user-images.githubusercontent.com/79708390/211933261-4777d142-448b-4654-8897-27721df0e73f.png" width="380" height="470">
 
 ### Inpainting Deleted Data
