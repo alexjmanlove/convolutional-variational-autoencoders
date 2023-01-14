@@ -4,6 +4,13 @@ In this project we apply convolutional neural networks in variational autoencode
 
 # Project Preview
 
+## What is a Convolutional Neural Network?
+
+In this project we briefly recap the idea of convolutional neural network and explore how they can be used for supervised tasks of classification and regression.
+
+![convolutions-1](https://user-images.githubusercontent.com/79708390/212490621-2c4ed11c-b6fb-4888-a073-bae63c1f08de.png)
+
+
 ## What is a Variational Autoencoder?
 
 In this project we briefly recap the idea of the variational autoencoder, which builds on the approach of traditional autoencoders by incorporating principles of probabilistic generative modelling and Bayesian variational inference to learn a distribution over the possible latent codes.    
