@@ -24,7 +24,7 @@ Using these models, we can generate new images that are similar to the training 
 
 ## Denoising and Damage Restoration of Corrupted Images
 
-Here show some examples using VAEs for denoising and damage restoration. However we note that the dataset was biased, with many observations belonging to ethnicity class 0, i.e. white caucasian. As a result the reconstructions of images belonging to minority classes can be of low fidelity. 
+Here show some examples using VAEs for denoising and damage restoration. 
 
 ### Simple Mean Filter Denoising vs VAE Reconstruction
 
@@ -34,7 +34,7 @@ Using the VAE we can create intelligible reconstructions of noisy images, assumi
 
 ### Inpainting Deleted Data
 
-In particular the individual in the center column appears to have changed ethnicity, which exemplifies the importance of ML ethics.
+Here, the VAE model is able to reconstruct an approximation of the original images, effectively in-painting the deleted data. However we note that the dataset was biased, with many observations belonging to ethnicity class 0, i.e. white caucasian. As a result the reconstructions of images belonging to minority classes can be of low fidelity. In particular the individual in the center column appears to have changed ethnicity, which exemplifies the importance of ML ethics.
 
 <img src="https://user-images.githubusercontent.com/79708390/211933289-aec02791-0020-41ed-9727-5ad5fc6dd6b7.png" width="380" height="360">
 
