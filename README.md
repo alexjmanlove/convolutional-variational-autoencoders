@@ -6,23 +6,33 @@ In this project we apply convolutional neural networks in variational autoencode
 
 ## What is a Variational Autoencoder?
 
+In this project we briefly recap the idea of the variational autoencoder, which builds on the approach of traditional autoencoders by incorporating principles of probabilistic generative modelling and Bayesian variational inference to learn a distribution over the possible latent codes.    
+
 <img src="https://user-images.githubusercontent.com/79708390/211933944-f558ba34-7042-4e96-9f0a-ff16ce8605f9.png" width="900" height="480">
 
 ## How Do `latent_dimension` and `β` Regularisation Affect VAE Reconstruction Quality?
+
+The number of permitted latent dimensions is a hyperparameter that determines the size of the latent space. This hyperparameter presents a bias-variance tradeoff. The β coefficient is a hyperparameter introduced in the loss function that controls the strength of regularisation. We explore how different values of these hyperparameters affect the resulting reconstructions produced by our VAEs.
 
 ![all_vae_models_reconstructions-1](https://user-images.githubusercontent.com/79708390/211932692-e81312ef-b85e-4e9c-9c2b-f385a4ca5ece.png)
 
 ## Face Interpolation Matirx Sampled From Latent Space
 
+Using these models, we can generate new images that are similar to the training data by sampling from the learned latent distribution. 
+
 <img src="https://user-images.githubusercontent.com/79708390/211932228-ea829d3a-4c48-41e7-9a5e-275f42ae4c64.png" width="600" height="600">
 
 ## Denoising and Damage Restoration of Corrupted Images
+
+Here show some examples using VAEs for denoising and damage restoration. However we note that the dataset was biased, with many observations belonging to ethnicity class 0, i.e. white caucasian. As a result the reconstructions of images belonging to minority classes can be of low fidelity. 
 
 ### Simple Mean Filter Denoising vs VAE Reconstruction
 
 <img src="https://user-images.githubusercontent.com/79708390/211933261-4777d142-448b-4654-8897-27721df0e73f.png" width="380" height="470">
 
 ### Inpainting Deleted Data
+
+In particular the individual in the center column appears to have changed ethnicity, which exemplifies the importance of ML ethics.
 
 <img src="https://user-images.githubusercontent.com/79708390/211933289-aec02791-0020-41ed-9727-5ad5fc6dd6b7.png" width="380" height="360">
 
