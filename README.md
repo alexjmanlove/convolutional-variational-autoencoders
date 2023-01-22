@@ -6,9 +6,8 @@ In this project we apply convolutional neural networks in variational autoencode
 
 ## What is a Convolutional Neural Network?
 
-In this project we first briefly recap the convolutional neural networks and explore their use for supervised tasks of classification and regression.   
+In this project we start by briefly recapping the convolutional neural networks and explore their use for supervised tasks of classification and regression.   
 ![convolutions-1](https://user-images.githubusercontent.com/79708390/212490621-2c4ed11c-b6fb-4888-a073-bae63c1f08de.png)
-
 
 ## What is a Variational Autoencoder?
 
