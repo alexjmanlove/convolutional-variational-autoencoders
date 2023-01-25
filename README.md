@@ -6,7 +6,7 @@ In this repo we apply convolutional neural networks in variational autoencoder m
 
 ## What is a Convolutional Neural Network?
 
-In this project we start by briefly recapping the convolutional neural networks and explore their use for supervised tasks of classification and regression.   
+In this project we start by briefly recapping the convolutional neural networks and explore their use for supervised tasks of classification and regression. Each face is labelled with an age, gender and ethnicity. We formulate CNNs feeding into simple multi-layer perceptrons which learn to predict these target variables given the 48x48 pixel face image tensor.    
 ![convolutions-1](https://user-images.githubusercontent.com/79708390/212490621-2c4ed11c-b6fb-4888-a073-bae63c1f08de.png)
 
 ## What is a Variational Autoencoder?
