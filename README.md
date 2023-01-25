@@ -1,6 +1,6 @@
 # Convolutional Variational Autoencoders for Generative Modelling of Human Faces with `PyTorch`
 
-In this project we apply convolutional neural networks in variational autoencoder models to perform unsupervised reconstruction, damage restoration and interpolation of human face images.
+In this repo we apply convolutional neural networks in variational autoencoder models to perform simple supervised prediction as well as unsupervised reconstruction, damage restoration and interpolation of human face images.
 
 # Project Preview
 
