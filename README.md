@@ -10,7 +10,7 @@ In this project we start by briefly recapping the convolutional neural networks 
 ![convolutions-1](https://user-images.githubusercontent.com/79708390/212490621-2c4ed11c-b6fb-4888-a073-bae63c1f08de.png)
 
 ## CNNs for Classification
-A quintessential problem in the literature is using CNNs to classify images. Here we test out how a simple CNN model can be used to classify the `age`, `gender` and `sex` of subjects in the image.
+A quintessential problem in the literature is using CNNs to classify images. Here we test out how a simple CNN model can be used to classify the `age`, `ethnicity` and `gender` of subjects in the image.
 
 ![faces5](https://user-images.githubusercontent.com/79708390/224761981-ebf1abb6-dc20-45b0-a1cb-44888a0bc165.png)
 
