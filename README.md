@@ -29,7 +29,7 @@ The number of permitted latent dimensions is a hyperparameter that determines th
 
 ![all_vae_models_reconstructions-1](https://user-images.githubusercontent.com/79708390/211932692-e81312ef-b85e-4e9c-9c2b-f385a4ca5ece.png)
 
-## Face Interpolation Matirx Sampled From Latent Space
+## Face Interpolation Matrix Sampled From Latent Space
 
 Using these models, we can generate new images that are similar to the training data by sampling from the learned latent distribution. 
 
