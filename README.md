@@ -9,6 +9,14 @@ In this repo we apply convolutional neural networks in variational autoencoder m
 In this project we start by briefly recapping the convolutional neural networks and explore their use for supervised tasks of classification and regression. Each face is labelled with an age, gender and ethnicity. We formulate CNNs feeding into simple multi-layer perceptrons which learn to predict these target variables given the 48x48 pixel face image tensor.    
 ![convolutions-1](https://user-images.githubusercontent.com/79708390/212490621-2c4ed11c-b6fb-4888-a073-bae63c1f08de.png)
 
+## CNNs for Classification
+A quintessential problem in the literature is using CNNs to classify images. Here we test out how a simple CNN model can be used to classify the `age`, `gender` and `sex` of subjects in the image.
+
+![faces5](https://user-images.githubusercontent.com/79708390/224761981-ebf1abb6-dc20-45b0-a1cb-44888a0bc165.png)
+
+#### We evaluate the classifiers using `precision`, `recall` and `F1`.
+![precision_recall_f1](https://user-images.githubusercontent.com/79708390/224761553-6cc2cbd8-b31a-4bef-992b-d4a27ba744e3.png)
+
 ## What is a Variational Autoencoder?
 
 Secondly, we briefly recap the variational autoencoder, which builds on the approach of traditional autoencoders by incorporating principles of probabilistic generative modelling and Bayesian variational inference to learn a distribution over the possible latent codes. In particular, here we use convolutional encoders and deconvolutional decoders.
