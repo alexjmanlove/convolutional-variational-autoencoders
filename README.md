@@ -2,7 +2,7 @@
 
 ![myfaces](https://user-images.githubusercontent.com/79708390/229932467-587beba8-9e70-40dc-a48f-2f1135778927.png)
 
-This is a collection of projects using both `PyTorch` and `TensorFlow` to implement convolutional variational autoencoders for generative image modelling.
+This is a collection of projects using both `PyTorch` and `TensorFlow` to implement convolutional neural networks for classification and regression as well as convolutional variational autoencoders for generative image modelling.
 
 **Chapter 1** firstly demonstrates the use of a simple convolutional neural network for supervised tasks: gender classification, ethnicity classification, and age regression. Secondly, we use variational autoencoders to generate novel images.
 
