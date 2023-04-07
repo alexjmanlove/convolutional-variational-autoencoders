@@ -11,7 +11,7 @@ This is a collection of projects using both `PyTorch` and `TensorFlow` to implem
 This image is a previews how changing the hyperparameter values of latent dimension size and $\beta$ regularisation coefficient affect reconstruction quality.
 ![all_vae_models_reconstructions-1](https://user-images.githubusercontent.com/79708390/229934163-b6b4dfa9-c1e5-4214-9976-c6f49f9e4cd5.png)
 
-This is an interpolation matrix sampled purely from the latent space. None of these folks are real!
+This is an interpolation matrix sampled purely from the learned latent space. None of these folks are real!
 <img src="https://user-images.githubusercontent.com/79708390/229935641-4c33c68b-b5ab-463c-985a-00e05b75573c.png" height=800, width=800>
 
 
