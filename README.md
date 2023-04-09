@@ -17,4 +17,4 @@ This is an interpolation matrix sampled purely from the learned latent space. No
 
 ## Project 2
 
-**Chapter 2** explores the use of conditional and normalising flows to improve the flexibility and fidelity of the VAE reconstructions.
+**Chapter 2** explores the use of labelled inputs and normalising flows to improve the flexibility and fidelity of the VAE reconstructions.
