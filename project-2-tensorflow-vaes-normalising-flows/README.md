@@ -1,3 +1,3 @@
-# Augmenting VAEs with Normalising Flows
+# Conditional VAEs and Normalising Flows
 
 [todo]
