@@ -15,6 +15,8 @@ A quintessential problem in the literature is using CNNs to classify images. Her
 ![faces5](https://user-images.githubusercontent.com/79708390/224761981-ebf1abb6-dc20-45b0-a1cb-44888a0bc165.png)
 
 #### We evaluate the classifiers using `precision`, `recall` and `F1`.
+There is a severe class imbalance in the data, with a disproportionately high number of `white` faces. As such it makes sense to evaluate the classifiers using not only accuracy, but also precision, recall and F1. Here we can see that the classifiers struggled to learn the features that distinguish the minority class of `latino`.
+
 ![precision_recall_f1](https://user-images.githubusercontent.com/79708390/224761553-6cc2cbd8-b31a-4bef-992b-d4a27ba744e3.png)
 
 ## What is a Variational Autoencoder?
