@@ -4,9 +4,9 @@
 
 This is a collection of projects using both `PyTorch` and `TensorFlow` to implement convolutional neural networks for classification and regression as well as convolutional variational autoencoders for generative image modelling.
 
-## Chapter 1
+## Chapter 1 using `PyTorch`
 
-Firstly we demonstrate the use of a simple convolutional neural network for supervised tasks: gender classification, ethnicity classification, and age regression. Secondly, we use variational autoencoders to generate novel images.
+Firstly we demonstate the use simple convolutional neural networks for supervised tasks: gender classification, ethnicity classification, and age regression. Secondly, we use variational autoencoders to generate novel images.
 
 This image previews how the effect varying hyperparameters of latent dimension size and $\beta$ regularisation coefficient affect reconstruction quality.
 ![all_vae_models_reconstructions-1](https://user-images.githubusercontent.com/79708390/229934163-b6b4dfa9-c1e5-4214-9976-c6f49f9e4cd5.png)
@@ -16,6 +16,6 @@ In this figure we apply the trained model to generate a face interpolation matri
 <img src="https://user-images.githubusercontent.com/79708390/229935641-4c33c68b-b5ab-463c-985a-00e05b75573c.png" height=800, width=800>
 
 
-## Chapter 2
+## Chapter 2 using `TensorFlow`
 
 Secondly, we explore the use of labelled inputs for conditional VAEs as well as normalising flows to improve the flexibility and fidelity of the VAE reconstructions.
