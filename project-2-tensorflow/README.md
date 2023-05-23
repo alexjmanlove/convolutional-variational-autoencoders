@@ -10,8 +10,10 @@ In this case we permit the VAE to view the ground truth age, ethnicity and gende
 
 ![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/46e08fee-5bba-4d3a-817b-5de660e3579e)
 ![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/cb18747b-8a49-421c-b16e-b3c3f7aa194f)
+![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/5580309e-62dd-4c24-8464-7348286e656d)
 ![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/a27e86ae-3675-4711-97ca-0e80ed3b2ed2)
 ![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/2d9689b9-a4e9-4fd4-8273-5a85dd50e370)
+![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/b5dc7f59-bf01-4e20-8047-3dab54a303e5)
 
 
 ### TODO 
