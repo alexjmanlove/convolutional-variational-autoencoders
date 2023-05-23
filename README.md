@@ -17,7 +17,11 @@ In this figure we apply the trained model to generate a face interpolation matri
 
 ## Project 2 using `TensorFlow`
 
+<img height=200 width=100 src="https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/26dabcb4-0ca9-4d9c-a508-9852e4c007ac">
+
 Secondly, we explore the use of labelled inputs for conditional VAEs as well as normalising flows to improve the flexibility and fidelity of the VAE reconstructions.
+
+
 
 #### Status
 - Conditional VAE: `[Implemented]`
