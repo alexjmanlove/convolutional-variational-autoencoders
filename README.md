@@ -20,5 +20,5 @@ In this figure we apply the trained model to generate a face interpolation matri
 Secondly, we explore the use of labelled inputs for conditional VAEs as well as normalising flows to improve the flexibility and fidelity of the VAE reconstructions.
 
 #### Status
-- Conditional VAE: `implemented`
+- Conditional VAE: `[Implemented]`
 - VAE IAF: `[Coming soon]`
