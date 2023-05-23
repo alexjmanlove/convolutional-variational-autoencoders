@@ -6,6 +6,13 @@ C-VAEs improve traditional VAEs by taking additional inputs, or "conditions". Th
 
 In this case we permit the VAE to view the ground truth age, ethnicity and gender labels of the images. This allows the model to create more accurate reconstructions. 
 
+### Reconstructions
+
+![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/46e08fee-5bba-4d3a-817b-5de660e3579e)
+![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/cb18747b-8a49-421c-b16e-b3c3f7aa194f)
+![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/a27e86ae-3675-4711-97ca-0e80ed3b2ed2)
+![image](https://github.com/alexjmanlove/convolutional-variational-autoencoders/assets/79708390/2d9689b9-a4e9-4fd4-8273-5a85dd50e370)
+
 
 ### TODO 
 
