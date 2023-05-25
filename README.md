@@ -19,9 +19,9 @@ In this figure we apply the trained model to generate a face interpolation matri
 
 ## Project 2 using `TensorFlow`
 
-![cvae_recon](https://user-images.githubusercontent.com/79708390/240979292-0a3b8a98-9697-428e-b57b-4c25f7742fff.png)
+Secondly, we demonstrate the use of labelled inputs for conditional VAEs to improve the flexibility and fidelity of the VAE reconstructions.
 
-Secondly, we explore the use of labelled inputs for conditional VAEs to improve the flexibility and fidelity of the VAE reconstructions.
+![cvae_recon](https://user-images.githubusercontent.com/79708390/240979292-0a3b8a98-9697-428e-b57b-4c25f7742fff.png)
 
 
 
