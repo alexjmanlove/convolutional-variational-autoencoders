@@ -17,3 +17,4 @@ By providing class labels we can improve the quality and fidelity of the reconst
 
 - Sample from the latent space for suggested input classes.
 - Fix the features and vary the class labels to interpolate along age, gender, ethnicity etc. 
+- Normalising Flows 
